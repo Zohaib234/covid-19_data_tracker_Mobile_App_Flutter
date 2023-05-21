@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         brightness: Brightness.dark,
         primarySwatch: Colors.blue,
       ),
-      home: const SplashScreen(),
+      home: const  SplashScreen(),
     );
   }
 }
